@@ -1,4 +1,8 @@
+# Prompt Library
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+From How To video: https://youtu.be/QZx6RAjWllE
 
 ## Getting Started
 
